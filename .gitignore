@@ -1,0 +1,7 @@
+# Generated data & MLflow runs
+data/sales.csv
+mlruns/
+# Python
+__pycache__/
+*.pyc
+.venv/

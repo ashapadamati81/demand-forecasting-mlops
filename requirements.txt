@@ -1,0 +1,19 @@
+# Demand Forecasting MLOps — pinned dependencies
+# Tested with Python 3.10+ (developed on 3.12)
+
+# Data & modeling
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.5.0
+xgboost==2.0.3
+lightgbm==4.3.0
+
+# Experiment tracking
+# (setuptools<81 provides pkg_resources, required by mlflow on Python 3.12)
+setuptools==80.10.2
+mlflow==2.14.0
+
+# Model serving
+fastapi==0.111.0
+uvicorn==0.30.1
+pydantic==2.8.2

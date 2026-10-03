@@ -1,0 +1,23 @@
+[
+  "price",
+  "on_promotion",
+  "is_holiday",
+  "dow",
+  "month",
+  "dayofyear",
+  "weekofyear",
+  "quarter",
+  "is_weekend",
+  "lag_7",
+  "lag_14",
+  "lag_28",
+  "roll_mean_7",
+  "roll_mean_14",
+  "roll_mean_28",
+  "roll_std_7",
+  "sku_code",
+  "cat_apparel",
+  "cat_electronics",
+  "cat_grocery",
+  "cat_home"
+]
